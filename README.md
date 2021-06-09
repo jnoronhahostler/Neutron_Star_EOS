@@ -10,7 +10,7 @@
 
 ==== 0. Codes and input files that produe the EoSs ========================================================
 
-To run the code, one requires the folder input_files, the Mathematica code, and a generic folder called output_files.  We have also uploaded the EoS folders as well but those are the output of the code and not required to run the code.
+To run the code, one requires the folder input_files, the Mathematica code, and a generic folder called output_files and output_files/TW (the generated EoS will be outputed here).  We have also uploaded the EoS folders as well but those are the output of the code and not required to run the code.
 
 We include two different codes here, please cite the following papers:<br>
 PRL_EOS_TOV.nb: Tan, Noronha-Hostler, Yunes, Phys.Rev.Lett. 125 (2020) 26, 261104 <br>
