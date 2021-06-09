@@ -8,7 +8,7 @@
 3. Neutron star observation constraints
 
 
-==== 0. Codes and input files that produe the EoSs ========================================================
+==== 0. Codes and input files that produe the EoSs ========================================================<br>
 
 To run the code, one requires the folder input_files, the Mathematica code, and a generic folder called output_files and output_files/TW (the generated EoS will be outputed here).  We have also uploaded the EoS folders as well but those are the output of the code and not required to run the code.
 
@@ -25,7 +25,10 @@ F.  Douchin  and  P.  Haensel.   A  unified  equation  of  state  ofdense matter
 F  Douchin,  P  Haensel,  and  J  Meyer.    Nuclear  surface  andcurvature properties for SLy Skyrme forces and nuclei in theinner neutron-star crust.Nucl. Phys. A, 665:419–446, 2000.<br>
 
 
-==== 1. Correspondence between EoS folders and paper figures ========================================================
+==== 1. Correspondence between EoS folders and paper figures ========================================================<br>
+The EoS folder contains:
+
+
 Fig.4 top    -> /adjustedwidth<br>
 Fig.4 bottom -> /peaklocation<br>
 Fig.5        -> /endpoint<br>
@@ -71,7 +74,7 @@ Fig.14  purple dash       -> /TW/pickFIX_PTwidth/eos1<br>
 Fig.15       -> /TW/slantendpoint<br>
 Fig.16       -> /TW/endpoint<br>
 
-==== 2. Files in the folders =================================================================================
+==== 2. Files in the folders =================================================================================<br>
 
 In each folder, there should be at least 3 types of files: EoS, mr, all observables
 
@@ -92,7 +95,7 @@ center energy density, radius of NS, mass of NS, dimensionless moment of inertia
 The units are shown in the filenames, where MeV really means MeV/fm^3 and Msun means solar mass.<br>
 
 
-==== 3. Neutron Star observation constraints ==================================================================
+==== 3. Neutron Star observation constraints ==================================================================<br>
 
 GW170817:<br>
 	publication: http://arxiv.org/abs/1805.11581<br>
